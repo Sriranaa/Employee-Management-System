@@ -133,7 +133,7 @@ https://69f5fe38a72f01a951b915f3.mockapi.io/EmployeeData
 * Responsive layout
 * Real-time updates from API
 * Screenshot
-  ![Alt text](screenshot.png)
+  ![image](https://github.com/Sriranaa/Employee-Management-System/blob/main/src/assets/screenshot.jpg)
 ---
 
 ## 👨‍💻 Author
