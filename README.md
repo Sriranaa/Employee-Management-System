@@ -132,7 +132,8 @@ https://69f5fe38a72f01a951b915f3.mockapi.io/EmployeeData
 * Functional CRUD application
 * Responsive layout
 * Real-time updates from API
-
+* Screenshot
+  ![Alt text](screenshot.png)
 ---
 
 ## 👨‍💻 Author
