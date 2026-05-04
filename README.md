@@ -83,7 +83,7 @@ This project uses **MockAPI** as backend.
 Example endpoint:
 
 ```
-https://<your-id>.mockapi.io/api/employees
+https://69f5fe38a72f01a951b915f3.mockapi.io/EmployeeData
 ```
 
 ### Employee Fields:
